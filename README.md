@@ -106,8 +106,9 @@
   </div>
 
   <footer>
-    Contact: <a href="mailto:merabjoy@gmail.com" class="email-link">merabjoy@gmail.com</a>
-    <span class="footer-note">Mera-B SYSTEM</span>
+    Contact: <h2><a href="mailto:merabjoy@gmail.com" class="email-link">merabjoy@gmail.com</a></h2>
+    <h3><span class="footer-note">Mera-B SYSTEM</span></h3>
   </footer>
 </body>
 </html>
+
