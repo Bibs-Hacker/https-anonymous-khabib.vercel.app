@@ -91,7 +91,7 @@
 <body>
   <div class="container">
     <h1>The Anonymous Khabib</h1>
-    <form action="https://wa.me/254748950572" target="_blank">
+    <h2><form action="https://wa.me/254748950572" target="_blank"></h2>
       <label for="name">Your Name</label>
       <input type="text" id="name" placeholder="Enter your name" required>
 
